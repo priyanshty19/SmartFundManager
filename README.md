@@ -49,6 +49,7 @@ The first phase focuses on creating a strong foundation with a **database** that
 2. **Phase 2: Predictive Model**
    - Analyze data patterns and build a recommendation engine.
    - Incorporate algorithms to suggest investments based on risk tolerance.
+---
 
 3. **Phase 3: UI/UX Development**
    - Create a user-friendly platform for inputting financial data and viewing recommendations.
